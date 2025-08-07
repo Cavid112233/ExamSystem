@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 
-// ----- 1. MƏLUMAT MODELLƏRİ (Entity Classes) -----
 public class Ders
 {
     [DatabaseGenerated(DatabaseGeneratedOption.None)]
